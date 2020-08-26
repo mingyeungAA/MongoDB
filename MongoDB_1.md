@@ -1,4 +1,4 @@
-## MongoDB
+## 📄MongoDB
 
 ### 💬NoSQL 이란?
 
@@ -72,3 +72,21 @@
 - {field : value} 형태
 
   ![](https://postfiles.pstatic.net/MjAyMDA4MjZfNTkg/MDAxNTk4NDM3MDEyMjM4.HgYjVJ3SPV-_diaqf2HoDswI79187ErRAdqNfwMUG38g.C-najnhLzf3u-mMMgILPWLdMbCY8_O9cye_nqP-70wwg.PNG.mingyeung/fieldvalue.png?type=w966)
+
+<br>
+
+---
+
+#### 명령어
+
+show dbs  &nbsp; &nbsp;  전체 database 목록
+
+db &nbsp; &nbsp;&nbsp; 현재 database 확인
+
+use dbname &nbsp; &nbsp; 해당 database로 변경
+
+show collections &nbsp; &nbsp; 현재 database의 collection 목록
+
+<br>
+
+<br>
