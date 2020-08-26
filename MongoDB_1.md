@@ -1,6 +1,6 @@
 ## MongoDB
 
-#### NoSQL 이란?
+### 💬NoSQL 이란?
 
 - Non Relational
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Database
+### 💬Database
 
 - 독립적인 하나의 권한을 가진다.
 - 각각의 db는 분리된 파일로 저장된다.
@@ -45,7 +45,7 @@
 
 ---
 
-### Collection (=table)
+### 💬Collection (=table)
 
 - document들의 group ( =rdbms의 table 역할 = 값이 저장될 모양)
 
@@ -63,11 +63,7 @@
 
 ### ⭐Document(=데이터)⭐
 
-- data recode를 BSON
-
-  [BSON]: http://bsonspec.org/	"BSON"
-
-   (⭐Binary JSON)으로 저장 (-> 가벼움)
+- data recode를 [BSON](http://bsonspec.org/) (⭐Binary JSON)으로 저장 (-> 가벼움)
 
 - field(key) 중복 불가
 
