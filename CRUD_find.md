@@ -63,7 +63,7 @@
 
 ---
 
-##### ex
+##### ex &nbsp;&nbsp;&nbsp; [find](https://docs.mongodb.com/manual/tutorial/query-documents/)
 
 1. select all documents in a collection &nbsp;&nbsp;컬렉션에서 전체 찾기
 
