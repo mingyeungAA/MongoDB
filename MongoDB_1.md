@@ -18,7 +18,7 @@
 
 ---
 
-##### mongo shell (interactive javascript interface)
+#### mongo shell (interactive javascript interface)
 
 - **javascript interpreter** 사용
 
@@ -30,7 +30,7 @@
 
 ---
 
-#### Database
+### Database
 
 - 독립적인 하나의 권한을 가진다.
 - 각각의 db는 분리된 파일로 저장된다.
@@ -45,7 +45,7 @@
 
 ---
 
-#### Collection (=table)
+### Collection (=table)
 
 - document들의 group ( =rdbms의 table 역할 = 값이 저장될 모양)
 
@@ -61,7 +61,7 @@
 
 <br>
 
-#### ⭐Document(=데이터)⭐
+### ⭐Document(=데이터)⭐
 
 - data recode를 BSON
 
