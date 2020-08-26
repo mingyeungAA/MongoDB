@@ -63,11 +63,11 @@
 
 ### ⭐Document(=데이터)⭐
 
-- data recode를 BSON
+- data recode를 
 
-  [BSON]: http://bsonspec.org/	"Bson"
+  [BSON]: http://bsonspec.org/
 
-  (⭐Binary JSON)으로 저장 (-> 가벼움)
+   (⭐Binary JSON)으로 저장 (-> 가벼움)
 
 - field(key) 중복 불가
 
@@ -75,4 +75,4 @@
 
 - {field : value} 형태
 
-  ![](C:\Users\mingy\Pictures\Saved Pictures\fieldvalue.png)
+  <img src="C:\Users\mingy\Pictures\Saved Pictures\fieldvalue.png" alt="fi" style="zoom:50%;" />
