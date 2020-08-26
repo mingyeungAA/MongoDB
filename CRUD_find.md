@@ -53,11 +53,11 @@
 
 <br>
 
-| Projection                | Description                                                  |
-| ------------------------- | ------------------------------------------------------------ |
-| <field> : <1 or true>     | field안에 포함되어 있다.                                     |
-| <field> : <0 or false>    | field안에 포함되어 있지 않다.                                |
-| "<field>.$" : <1 or true> | $배열 projection을 사용하면, 배열에서 첫번째 요소를 리턴한다. (ex) "arrayField.$" : 1 |
+| Projection                  | Description                                                  |
+| --------------------------- | ------------------------------------------------------------ |
+| `<field> : <1 or true>`     | field안에 포함되어 있다.                                     |
+| `<field> : <0 or false>`    | field안에 포함되어 있지 않다.                                |
+| `"<field>.$" : <1 or true>` | $배열 projection을 사용하면, 배열에서 첫번째 요소를 리턴한다. (ex) "arrayField.$" : 1 |
 
 <br>
 
