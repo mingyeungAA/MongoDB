@@ -116,9 +116,16 @@
 
 ---
 
-**cursor 
+#### cursor 
 
 &nbsp; &nbsp; &nbsp; : A pointer to the result set of a query. Clients can iterate through a cursor to retrieve results.
+
+&nbsp; &nbsp; &nbsp; &nbsp;:&nbsp; `var cursor = db.collection.find()`
+
+&nbsp; &nbsp; &nbsp;  : 일회용이다. 사라진다.
+
+- find()를 통해 리턴되는 cursor를 var변수에 저장할 수 있다.
+- hasNext(), forEach(), toArray() 등을 사용하여 cursor내부의 document들을 사용할 수 있다.
 
 <br>
 
