@@ -13,7 +13,7 @@
 - **`db.collection.insertOne()`**
 - **`db.collection.insertMany()`**
 
-
+<br>
 
 **`_id` (=primary key) : 명시하지 않으면 자동으로 Objectid값을 생성한다.
 
@@ -61,7 +61,7 @@ db.inventory.insertMany([
 
 **Collection : 특별히 따로 만들겠다고 선언하지 않아도 자동으로 만들어짐
 
-​					   : If the collection does not currently exist, insert operations will create the collection.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : If the collection does not currently exist, insert operations will create the collection.
 
 
 
